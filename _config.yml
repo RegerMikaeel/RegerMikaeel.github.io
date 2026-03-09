@@ -23,9 +23,9 @@ repository               : "RegerMikaeel/RegerMikaeel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/"
+  avatar           : "/images/profile.jpg"
   name             : "Reger Mikaeel"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "He/Him"  
   bio              : "Clinical Fellow in Laboratory Genetics and Genomics at Washington University School of Medicine."
   location         : "St. Louis, Missouri"
   employer         : "Washington University School of Medicine"
@@ -41,7 +41,7 @@ author:
   orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Reger+Mikaeel"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
