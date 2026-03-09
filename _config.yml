@@ -23,14 +23,14 @@ repository               : "RegerMikaeel/RegerMikaeel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/"
   name             : "Reger Mikaeel"
   pronouns         : # example: "she/her"  
   bio              : "Reger Mikaeel is an early-career researcher and laboratory geneticist focused on the molecular genetics of colorectal cancer (CRC). He is currently a Clinical Fellow in Laboratory Genetics and Genomics at Washington University School of Medicine, and in the prior year worked as an Application Scientist at Nabsys, advancing Electronic Genome Mapping (EGM) workflows. Over the past decade, Reger has analyzed and interpreted genomic data from CRC patients to identify hereditary risk factors and elucidate mechanisms of tumorigenesis. He previously served as a Postdoctoral Associate at Yale School of Medicine, studying molecular features and hereditary risk in African Americans with young-onset CRC. He collaborates with teams in the USA, Australia and Germany on discovery of novel germline variants in serrated polyposis syndrome and on risk factors for appendiceal neoplasms in young adults. Reger has 11 first-author, peer-reviewed publications. His work with A/Prof. Joanne Young helped establish the hereditary role of RNF43 gene as a tumor-suppressor gene in CRC and informed ClinGen reclassification, impacting clinical practice. He has also reported on links between type 2 diabetes and earlier-onset CRC, and has been recognized with scholarships (UK master’s), a PhD (Australia), and a fellowship (Germany)."
   location         : "St. Louis, Missouri"
   employer         : "Washington University School of Medicine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "reger@wustl.edu" 
 
   # Academic websites
   academia         : # URL
