@@ -23,7 +23,7 @@ repository               : "RegerMikaeel/RegerMikaeel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Reger Mikaeel"
   pronouns         : # example: "He/Him"  
   bio              : "Clinical Fellow in Laboratory Genetics and Genomics at Washington University School of Medicine."
