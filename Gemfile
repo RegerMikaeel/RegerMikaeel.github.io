@@ -10,4 +10,3 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages', '~> 232'
-gem 'connection_pool', '2.5.0'
